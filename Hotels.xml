@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns="http://www.public.asu.edu"> <!--Doesn't matter I think -->
+	<Hotel Rating="4.0">
+		<Name>Best Western</Name>
+		<Address>
+			<Building>8315</Building>
+			<Street>4th Ave</Street>
+			<City>Brooklyn</City>
+			<State>NY</State>
+			<ZipCode>11209</ZipCode>
+		</Address>
+		<Phone>(718) 238-3737</Phone>
+		<Address NearestAirport="JFK Airport">
+			<City>Queens</City>
+			<State>NY</State>
+			<zipCode>11430</zipCode>
+		</Address>
+	</Hotel>
+</Hotels>
+

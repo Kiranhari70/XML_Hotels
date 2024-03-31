@@ -1,0 +1,14 @@
+﻿<Hotel RequiredAttribute="required">
+	<Name>MyHotel</Name>
+	<Street>123 Sesame Street</Street>
+	<Phone>(212) 595-3456</Phone>
+	<Rating>4.0</Rating>
+	<Address>
+		<Number>12</Number>
+		<Street>Problems</Street>
+		<City>Brooklyn</City>
+		<State>NY</State>
+		<Zip>11209</Zip>
+		<NearestAirport>JFK AirPort</NearestAirport>
+	</Address>
+</Hotel>
